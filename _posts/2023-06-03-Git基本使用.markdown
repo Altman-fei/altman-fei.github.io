@@ -50,7 +50,7 @@ ssh -T git@github.com
 # 执行后看到“successfully”表示OK
 ```
 
-![测试SSH是否绑定成功](./images/2023-6-3-Git基本使用/Test_SSH.png)
+![测试SSH是否绑定成功](/images/2023-6-3-Git基本使用/Test_SSH.png)
 
 全局配置工作大功告成，下面讲解下Git基本用法...
 
@@ -100,7 +100,7 @@ git commit -m "备注信息"
 
 这个备注信息是什么呢，一起来看下~~~
 
-![备注显示位置](./images/2023-6-3-Git基本使用/Github_commit.png)
+![备注显示位置](/images/2023-6-3-Git基本使用/Github_commit.png)
 
 明白了吧...
 
