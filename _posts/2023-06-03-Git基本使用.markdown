@@ -1,6 +1,6 @@
 ---
 title: Git的基本使用
-date: 2023-6-3 19:30:00
+date: 2023-06-03 19:30:00
 categories:
 - Git
 tags:
