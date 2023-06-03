@@ -215,7 +215,6 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/altman-fei
-  Email: altman.fei@gmail.com
 
 # Social Links Icons
 # Icon Mapping:
@@ -229,12 +228,11 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
-  Email: email
 
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /assets/images/avatar.gif
 
 
 # Table Of Contents in the Sidebar
