@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: Wuuyun
 subtitle:
 description:
-author: John Doe
+author: Wuuyun Team
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "乌云,Wuuyun"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
