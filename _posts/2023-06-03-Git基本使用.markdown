@@ -41,7 +41,7 @@ ssh-keygen -t rsa -C "Your GitHub Email"
 
 执行后根据提示找到“id_rsa.pub”文件，秘钥就在里面。将公钥添加至GitHub账户即可。
 
-![Github账户添加SSH_Key](/images/2023-6-3-Git基本使用/Add-SSH_Key.png)
+![Github账户添加SSH_Key Preview](/images/2023-6-3-Git基本使用/Add-SSH_Key.png)
 
 到这里我们就配置好了，下面测试下配置的SSH是否正常。
 ``` shell
