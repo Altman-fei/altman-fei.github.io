@@ -5,7 +5,7 @@
   {% capture title %}{{ page.title }} | {{ site.title }}{% endcapture %}
 {% when 'page' %}
   {% capture title %}
-    {% assign page_title_suffix = ' | ' | append: "Wuuyun 自由 · 共享" %}
+    {% assign page_title_suffix = ' | ' | append: site.title %}
     {% if page.type == "categories" and page.title == nil %}
       {{ __.title.categories | append: page_title_suffix }}
     {% elsif page.type == "tags" and page.title == nil %}
